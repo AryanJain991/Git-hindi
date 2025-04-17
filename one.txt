@@ -1,1 +1,3 @@
 Hi this my first file to pushing on GITHUB thank u
+
+adding next line as a third no of line
